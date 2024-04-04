@@ -1,4 +1,4 @@
-### Hey, my name Louis 👋
+### Hey, my name's Louis 👋
 
 ##### About Me
 Hello! I'm Louis Denman, a passionate learner and aspiring full-stack web developer currently enrolled in the 10 month web development bootcamp at CoderAcademy. With a strong foundation in HTML, CSS, JavaScript, and Python, I'm dedicated to honing my skills and becoming proficient in every aspect of web development.
