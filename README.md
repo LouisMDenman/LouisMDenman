@@ -7,7 +7,7 @@ Hello! I'm Louis Denman, a passionate learner and aspiring full-stack web develo
 Currently undertaking a full-stack web development course at CoderAcademy, expected to graduate in December 2024.
 
 #### Skills
-Markup Languages: HTML, CSS
+Markup Languages: HTML, CSS  
 Programming Languages: JavaScript, Python, SQL
 
 #### Projects
