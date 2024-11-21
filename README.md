@@ -11,4 +11,4 @@ Currently undertaking a full-stack web development course at CoderAcademy, expec
 You can see my personal portfolio [here](https://lmdp.netlify.app/). Over the duration of the course I'm studying, I will be updating it with the skills I've learned and projects I have created.
 
 #### Get in Touch
-Feel free to connect with me on LinkedIn, I'm always open to networking and discussing exciting opportunities! Find me here: [https://au.linkedin.com/in/louis-denman-2b441a2a4](https://au.linkedin.com/in/louis-denman-2b441a2a4)
+Feel free to connect with me on LinkedIn, I'm always open to networking and discussing exciting opportunities! Find me here: [https://www.linkedin.com/in/louisdenman/](https://www.linkedin.com/in/louisdenman/)
