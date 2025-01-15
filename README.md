@@ -1,14 +1,14 @@
 ### Hey, my name's Louis 👋
 
 ##### About Me
-Hey, I'm Louis, an aspiring software developer currently pursuing studies at CoderAcademy in 2024. With a diverse background spanning various roles and industries, I've developed essential skills including problem-solving, time management, and teamwork. I'm eager to combine this experience with my developing technical knowledge to secure a role in the web development/ software engineering space in late 2024.
+Currently a Software Developer at AGDATA Australia. I am a Problem solver first and foremost, with a proven track record of overcoming challenges of all natures across my previous academic and professional endeavors. This bank of knowledge and experience in problem solving, combined with my insatiable love for learning means that I bring an enthusiastic mentality and honed skill set to any challenge. Understanding that the code I write is merely a tool used to solve a problem, I am adaptable to any language or tech stack, and will always be self-critical, to ensure I can find the most efficient and useful solution that allows me to contribute to the project/team as best I can.
 
 #### Education
-Currently undertaking a full-stack web development course at CoderAcademy, expected to graduate in December 2024.
+Graduated from the CoderAcademy Full-Stack Web Development Bootcamp with a High Distinction.
 
 #### Portfolio
 
-You can see my personal portfolio [here](https://lmdp.netlify.app/). Over the duration of the course I'm studying, I will be updating it with the skills I've learned and projects I have created.
+You can see my personal portfolio [here](https://lmdp.netlify.app/).
 
 #### Get in Touch
-Feel free to connect with me on LinkedIn, I'm always open to networking and discussing exciting opportunities! Find me here: [https://www.linkedin.com/in/louisdenman/](https://www.linkedin.com/in/louisdenman/)
+Feel free to connect with me on LinkedIn, I'm always open to networking and discussing exciting opportunities! Find me [here](https://www.linkedin.com/in/louisdenman/).
