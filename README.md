@@ -8,7 +8,7 @@ Graduated from the CoderAcademy Full-Stack Web Development Bootcamp with a High 
 
 #### Portfolio
 
-You can see my personal portfolio [here](https://lmdp.netlify.app/).
+You can see my personal portfolio [here](https://louisdenman.dev).
 
 #### Get in Touch
 Feel free to connect with me on LinkedIn, I'm always open to networking and discussing exciting opportunities! Find me [here](https://www.linkedin.com/in/louisdenman/).
